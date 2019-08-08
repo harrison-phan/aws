@@ -1,0 +1,21 @@
+{
+    "name": "si6/aws",
+    "description": "SI6 package aws",
+    "require": {
+        "php": ">=7.1",
+        "illuminate/support": "5.8.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hai Phan",
+            "email": "haiphangia.icloud@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Si6\\AWS\\": "src/"
+        }
+    }
+}
