@@ -3,6 +3,7 @@
     "description": "SI6 package aws",
     "require": {
         "php": ">=7.1",
+        "aws/aws-sdk-php": "^3.108",
         "illuminate/support": "5.8.*"
     },
     "license": "MIT",
